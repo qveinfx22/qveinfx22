@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет! Я Python-разработчик 👋
 
-<!--
-**qveinfx22/qveinfx22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на автоматизации процессов, веб-скрейпинге (парсинге) и создании Telegram-ботов. Помогаю бизнесу и частным клиентам экономить время и деньги, перекладывая рутинные задачи на надежные скрипты.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологический стек:
+* **Язык программирования:** Python 🐍
+* **Парсинг и сбор данных:** BeautifulSoup, Requests, Selenium, Lxml
+* **Telegram-роботы:** Aiogram, Telebot
+* **Автоматизация систем:** ADB (Android Debug Bridge), OpenCV, Pillow (имитация кликов, свайпов, распознавание элементов экрана)
+* **Работа с данными:** Pandas, Openpyxl (генерация и обработка Excel-таблиц), JSON / XML
+
+---
+
+### 📂 Моё портфолио (Примеры готовых решений):
+
+#### 🤖 Telegram-боты для бизнеса:
+* **[LeadGen Business Bot](#)** — Интерактивный бот для сбора заявок и обратной связи. Автоматически квалифицирует клиента, собирает контакты (имя, телефон) и мгновенно пересылает структурированную заявку администратору.
+
+#### 📊 Парсинг, скрейпинг и аналитика данных:
+* **[DataExtractor Excel](#)** — Универсальный парсер интернет-магазинов и досок объявлений. Обходит защиту, собирает цены, артикулы, характеристики товаров и сохраняет данные в структурированные таблицы `.xlsx` (Excel).
+* **[MediaWatermark Parser](#)** — Скрипт для массовой загрузки изображений/видео по списку ссылок с автоматической уникализацией: изменение разрешения и наложение водяного знака (Watermark).
+
+#### ⚙️ Автоматизация и мобильные скрипты (ADB):
+* **[Android ADB Automator](#)** — Скрипт для полной автоматизации действий на смартфонах и эмуляторах через Android Debug Bridge. Использует компьютерное зрение (OpenCV) для поиска нужных элементов на экране, делает точные клики, свайпы и обрабатывает сценарии любой сложности.
+
+---
+
+### 📈 Статистика профиля:
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=qveinfx22&show_icons=true&theme=tokyonight)
+![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=qveinfx22&layout=compact&theme=tokyonight)
+
+---
+
+### 💬 Как со мной связаться:
+* **Telegram:** [@твой_ник_в_тг] 🚀
+* **Email:** [твой_email@gmail.com] ✉️
+
+_"Превращаю ручные задачи в эффективный автоматический код."_
